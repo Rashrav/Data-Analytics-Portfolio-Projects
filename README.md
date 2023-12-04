@@ -42,7 +42,3 @@ If you wish to connect or follow my professional journey, please find me on [Lin
 ---
 
 Happy exploring, and I hope you find these projects both informative and inspiring!
-
----
-
-This description provides a comprehensive overview of the repository, guiding potential viewers and collaborators through the various aspects of your projects while highlighting your skills and areas of expertise.
