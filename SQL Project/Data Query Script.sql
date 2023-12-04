@@ -1,4 +1,5 @@
 
+
 use business_management;
 -- Listing all staffs with their roles (Manager or not):
 SELECT acq_staff_id, staff_family_name, staff_other_names, 

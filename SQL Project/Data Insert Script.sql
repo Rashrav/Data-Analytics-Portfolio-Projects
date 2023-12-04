@@ -1,6 +1,10 @@
+
 -- -----------------------------------------------------
-CREATE SCHEMA Restaurant;
-USE Restaurant;
+-- Table Creation and Data Insert
+-- -----------------------------------------------------
+
+CREATE SCHEMA business_management;
+USE business_management;
 -- -----------------------------------------------------
 -- -----------------------------------------------------
 -- Table `staff`
@@ -157,7 +161,7 @@ INSERT INTO `staff` (`acq_staff_id`, `c_staff_id`, `staff_family_name`, `staff_o
 -- -----------------------------------------------------
 -- Data for table `manager`
 -- -----------------------------------------------------
-INSERT INTO `manager` (`acq_staff_id`, `mgr_start_date`, `mgr_review_date`) VALUES (2, '2020-02-28', '2022-11-02');
+INSERT INTO `manager` (`acq_staff_id`, `mgr_start_date`, `mgr_review_date`) VALUES Í(2, '2020-02-28', '2022-11-02');
 INSERT INTO `manager` (`acq_staff_id`, `mgr_start_date`, `mgr_review_date`) VALUES (4, '2021-11-01', '2022-12-16');
 INSERT INTO `manager` (`acq_staff_id`, `mgr_start_date`, `mgr_review_date`) VALUES (5, '2020-01-23', '2022-11-21');
 
@@ -265,5 +269,10 @@ WHERE acq_staff_id = 4;
 UPDATE staff
 SET email = 'l.risotto@luigispizza.com'
 WHERE acq_staff_id = 5;
+-- ---------------------------------------------------------------------
+-- ---------------------------------------------------------------------
 
+-- -----------------------------------------------------
+-- Data Query Script
+-- -----------------------------------------------------
 
