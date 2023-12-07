@@ -9,18 +9,10 @@ Welcome to my Data Analytics Portfolio Projects repository! This collection of p
 - **Code**: The projects are primarily coded in Python, utilizing libraries like Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization. Jupyter Notebooks are used for a clear, step-by-step presentation of the analyses.
 - **Visualizations**: Where relevant, interactive dashboards or static visualizations are included to illustrate the insights derived from the data.
 
-### Featured Projects
-
-1. **Retail Sales Analysis**: An exploration of a retail dataset to uncover sales trends, customer behaviors, and opportunities for growth.
-2. **Social Media Sentiment Analysis**: Using natural language processing techniques to analyze sentiments in social media posts.
-3. **Healthcare Data Analysis**: Examining healthcare data to identify patterns, inefficiencies, and potential areas for improvement.
-4. **Financial Market Trends**: Analyzing financial market data to gain insights into trends, risks, and investment opportunities.
-
 ### Skills Demonstrated
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis
-- Statistical Analysis
 - Predictive Modeling
 - Data Visualization
 - Machine Learning Basics
