@@ -6,20 +6,20 @@ Welcome to my Data Analytics Portfolio Projects repository! This collection of p
 
 ## Projects
 
-### Top Employers Visual Insights
-An in-depth Tableau-based analysis of the top 100 graduate employers, providing insights into company rankings, diversity scores, and industry sector comparisons. [View Project](https://public.tableau.com/app/profile/rashrav.shrestha/viz/Top100GraduatesEmployersCultureDiversityMetrics/EmployersVisualInsights)
+1. ### [Top Employers Visual Insights](https://public.tableau.com/app/profile/rashrav.shrestha/viz/Top100GraduatesEmployersCultureDiversityMetrics/EmployersVisualInsights)
+   An in-depth Tableau-based analysis of the top 100 graduate employers, providing insights into company rankings, diversity scores, and industry sector comparisons.
 
-### Titanic Survival Prediction with Python
-A machine learning project predicting the survival of Titanic passengers, using passenger attributes to analyze survival factors. [View Project](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/Python%20Projects/Titanic%20Data-Supervised%20Learning.ipynb)
+2. ### [Titanic Survival Prediction with Python](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/Python%20Projects/Titanic%20Data-Supervised%20Learning.ipynb)
+   A machine learning project predicting the survival of Titanic passengers, using passenger attributes to analyze survival factors.
 
-### Credit Default Risk Prediction with Python
-Advanced machine learning models predict loan default risks, aiding financial institutions in decision-making. [View Project](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/Python%20Projects/Credit%20Default%20Prediction.ipynb)
+3. ### [Credit Default Risk Prediction with Python](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/Python%20Projects/Credit%20Default%20Prediction.ipynb)
+   Advanced machine learning models predict loan default risks, aiding financial institutions in decision-making.
 
-### Data Retrieval and Analysis with SQL
-SQL project focusing on creating and managing a business database with analytical queries. [View Code](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/SQL%20Project/Sql%20Project%20Queries.sql)
+4. ### [Data Retrieval and Analysis with SQL](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/SQL%20Project/Sql%20Project%20Queries.sql)
+   SQL project focusing on creating and managing a business database with analytical queries.
 
-### Data Visualization With Tableau
-Dynamic Tableau dashboards visualizing complex data for business insights and decision-making. [View Dashboards](https://public.tableau.com/app/profile/rashrav.shrestha/vizzes)
+5. ### [Data Visualization With Tableau](https://public.tableau.com/app/profile/rashrav.shrestha/vizzes)
+   Dynamic Tableau dashboards visualizing complex data for business insights and decision-making.
 
 ### Skills Demonstrated
 
