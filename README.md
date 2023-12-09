@@ -7,19 +7,19 @@ Welcome to my Data Analytics Portfolio Projects repository! This collection of p
 ## Projects
 
 1. ### [Top Employers Visual Insights](https://public.tableau.com/app/profile/rashrav.shrestha/viz/Top100GraduatesEmployersCultureDiversityMetrics/EmployersVisualInsights)
-   An in-depth Tableau-based analysis of the top 100 graduate employers, providing insights into company rankings, diversity scores, and industry sector comparisons.
+   This Tableau-based dashboard offers an in-depth analysis of the Top 100 graduate employers. It skillfully visualizes key metrics, including company rankings and diversity scores, and provides comparative insights across various industry sectors. This dashboard is an essential tool for understanding the landscape of graduate employment opportunities and the diversity practices within leading organizations.
 
 2. ### [Titanic Survival Prediction with Python](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/Python%20Projects/Titanic%20Data-Supervised%20Learning.ipynb)
-   A machine learning project predicting the survival of Titanic passengers, using passenger attributes to analyze survival factors.
+   This project uses supervised machine learning to predict Titanic passenger survival, analyzing passenger attributes to uncover factors influencing survival rates and demonstrating the practical application of supervised learning in real-world scenarios.
 
 3. ### [Credit Default Risk Prediction with Python](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/Python%20Projects/Credit%20Default%20Prediction.ipynb)
-   Advanced machine learning models predict loan default risks, aiding financial institutions in decision-making.
+   In this project, advanced supervised machine learning models in Python are used to predict loan default risks, analyzing key client data to help financial institutions make informed decisions and reduce financial risk in credit lending.
 
 4. ### [Data Retrieval and Analysis with SQL](https://github.com/Rashrav/Data-Analytics-Portfolio-Projects/blob/main/SQL%20Project/Sql%20Project%20Queries.sql)
-   SQL project focusing on creating and managing a business database with analytical queries.
+   This SQL project creates and manages a business database, covering staff, managers, stores, and contracts. It includes table setup, data insertion, and analytical queries for extracting key business insights.
 
 5. ### [Data Visualization With Tableau](https://public.tableau.com/app/profile/rashrav.shrestha/vizzes)
-   Dynamic Tableau dashboards visualizing complex data for business insights and decision-making.
+   The project features a collection of dynamic, visually appealing dashboards created in Tableau, designed to visualize and simplify complex data for enhanced business insights and decision-making.
 
 ### Skills Demonstrated
 
